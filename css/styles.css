@@ -1,0 +1,23 @@
+body {
+    background-color: powderblue;
+	font-family: verdana;
+	text-align: center;
+}
+
+p {
+    color: red;
+}
+
+.photos {
+	
+}
+
+#title {
+    color: blue;
+	border: solid;
+}
+
+table, th, td {
+    border: 1px solid black;
+	border-collapse: collapse;
+}
